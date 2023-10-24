@@ -1,0 +1,7 @@
+{
+  "urls": [   
+      [".ilib/l.pya", "github:go2m/s_ilib/micropython/esp32/l.app"]
+  ],
+  "version": "1.20.1"
+  }
+  
