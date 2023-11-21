@@ -1,1 +1,4 @@
-{"urls": [["wake-up-ext0.bat", "github:go2m/apps_1.20/micropython/batch/wake/wake-up-ext0.bat"],["wake-up-ext1.bat", "github:go2m/apps_1.20/micropython/batch/wake/wake-up-ext1.bat"]], "version": "1.20.1"}
+{"urls": [
+    ["wake-up-ext0.bat", "github:go2m/apps_1.20/micropython/batch/wake/wake-up-ext0.bat"],
+    ["wake-up-ext1.bat", "github:go2m/apps_1.20/micropython/batch/wake/wake-up-ext1.bat"]
+], "version": "1.20.1"}
