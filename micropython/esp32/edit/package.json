@@ -1,1 +1,5 @@
-{"urls": [[".ilib/edit.app", "github:go2m/apps_1.20/micropython/esp32/edit.app"]], "version": "1.20.1"}
+{"urls": [
+    [".ilib/edit.app", "github:go2m/apps_1.20/micropython/esp32/edit/edit.app"],
+    ["lib/pye.mpy", "github:go2m/apps_1.20/micropython/esp32/edit/pye.mpy"]
+    
+    ], "version": "1.20.1"}
